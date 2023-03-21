@@ -1,6 +1,6 @@
 [submodule "HoosatCMS-client"]
 	path = HoosatCMS-client
-	url = git@github.com:TMKCodes/HoosatCMS-client.git
+	url = git@github.com:Hoosat-Oy/HoosatCMS-client.git
 [submodule "HoosatCMS-server"]
 	path = HoosatCMS-server
-	url = git@github.com:TMKCodes/HoosatCMS-server.git
+	url = git@github.com:Hoosat-Oy/HoosatCMS-server.git
